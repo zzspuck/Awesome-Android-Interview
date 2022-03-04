@@ -232,7 +232,7 @@ xml 文件实现的补间动画，复用率极高。在 Activity切换，窗口�
 - 4、创建对话框时不可以用Application的context，只能用Activity的context。
 
 - 5、Context的数量等于Activity的个数 + Service的个数 +1，这个1为Application。
-
+[深入理解](https://blog.csdn.net/guolin_blog/article/details/47028975?spm=1001.2014.3001.5501)
 
 #### 10、Android各版本新特性
 
